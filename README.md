@@ -84,7 +84,7 @@ seamless-migration-mobility/
 │   └── mobility.py           # Mininet-WiFi script for wireless mobility scenario
 └── docs/
     ├── Report_Seamless_Mobility_Migration.pdf   # Detailed project report
-    ├── screenshots/          # Screenshots and diagrams
+    ├── topology/          # Diagrams
 ```
 
 ---
